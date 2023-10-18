@@ -2,11 +2,6 @@
 
 Este projeto foi desenvolvido como parte do desafio do curso de Ciência de Dados com Python da DIO (Digital Innovation One). O objetivo deste desafio era criar um relatório de vendas elegante utilizando a Sample financials do Power BI.
 
-
-## Desafio
-
-O desafio consistiu em utilizar as habilidades adquiridas durante o curso para criar um relatório de vendas no Power BI. O Power BI é uma ferramenta poderosa de visualização de dados que permite transformar informações complexas em insights valiosos.
-
 ## Sobre o Projeto
 
 Neste projeto, explorei a Sample financials fornecida pelo Power BI para criar um relatório de vendas completo. Utilizando gráficos dinâmicos, análises detalhadas, botões de navegação e segmentadores de dados.
